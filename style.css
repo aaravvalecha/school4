@@ -1,0 +1,29 @@
+#video{
+height:500px;
+width: 100%;
+border: none;
+}
+#highgate_library{
+    width:80%;
+}
+body{
+    background-color: rgb(241, 208, 241);
+}
+.sports_carnival{
+    font-size: 20px;
+    padding:6px 22px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+.sports_carnival i{
+float:right;
+}
+.speech_out{
+    font-size: 20px;
+    padding:6px 22px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+.speech_out i{
+float:right;
+}
